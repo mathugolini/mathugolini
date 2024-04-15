@@ -1,7 +1,7 @@
 ### Hello Everybody 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-hugolini/)](https://www.linkedin.com/in/matheus-hugolini/)
-[![Gmail Badge](https://img.shields.io/badge/-mathugolini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathugolini@gmail.com)](mailto:mathugolini@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mathugolini@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathugolini@gmail.com)](mailto:mathugolini@gmail.com)
 
 ## My name is Matheus Hugolini
 (Java | Spring Boot | AWS | React | Vue | Typescript | Javascript | HTML | CSS ) 🚀
